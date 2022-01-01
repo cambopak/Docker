@@ -1,6 +1,6 @@
 # **Learning Docker**
 ## Overview
-Thank you for your interest in looking into my Github. I created this repo to showcase capabilities in working with Docker.
+Thank you for your interest in looking into my Github. I created this repo to showcase my capabilities in working with Docker.
 
 We are going to focus on initializing the Docker CE (Community Edition) environment in centos in simple easy steps:
 1. Run `sudo yum install -y yum-utils device-mapper-persistent-data lvm2` to install docker. We will install yum-utils, device-mapper-persisten-data and lvm2.
